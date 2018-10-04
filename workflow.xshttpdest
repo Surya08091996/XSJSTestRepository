@@ -1,0 +1,8 @@
+description = "Workflow API Call";
+host = "bpmworkflowruntimed7943e608-d998e5467.us2.hana.ondemand.com";
+port = 443;
+pathPrefix = "/workflow-service/rest/v1";
+authType = basic;
+useSSL = true;
+sslHostCheck = true;
+sslAuth = client;
